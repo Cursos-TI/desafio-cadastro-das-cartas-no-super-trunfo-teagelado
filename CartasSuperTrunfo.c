@@ -4,7 +4,7 @@
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
 
 int main() {
-    // Informações das variáveis da carta 01
+    // Informações das variáveis da carta 01 [referente ao desafio 01]
     char estado1;
     char codigo1[4];
     char nomecidade1[50];
@@ -116,8 +116,8 @@ int main() {
     printf("Número de Pontos Turísticos: ");
     scanf("%d", &pontosTuristicos2);
 
-    // Cálculos da carta 1
-    densidade1 = populacao1 / area1;
+    // Cálculos da carta 1 [referente ao desafio 02]
+    densidade1 = populacao1 / area1; 
     pibPerCapita1 = pib1 / populacao1; // PIB convertido de bilhões para reais
 
     // Cálculos da carta 2
