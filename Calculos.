@@ -1,6 +1,0 @@
-Calculo da Densidade por capital
-Calculo do Pib per capital
-
-// Cálculos
-    carta1.densidadePopulacional = carta1.populacao / carta1.area;
-    carta1.pibPerCapita = carta1.pib  / carta1.populacao; 
